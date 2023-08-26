@@ -1,0 +1,19 @@
+﻿namespace ConsoleApp1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int numero, contador = 1;
+
+            Console.WriteLine("Digite a tabuada");
+            numero = Convert.ToInt32(Console.ReadLine());
+
+            while (contador <= 1)
+            {
+                Console.WriteLine($"{numero} x {contador} = {numero * contador}");
+                contador++;
+            }
+        }
+    }
+}
