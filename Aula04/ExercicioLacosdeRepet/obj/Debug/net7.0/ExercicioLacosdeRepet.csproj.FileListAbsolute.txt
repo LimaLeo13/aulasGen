@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula04\ExercicioLacosdeRepet\bin\Debug\net7.0\ExercicioLacosdeRepet.exe
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula04\ExercicioLacosdeRepet\bin\Debug\net7.0\ExercicioLacosdeRepet.deps.json
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula04\ExercicioLacosdeRepet\bin\Debug\net7.0\ExercicioLacosdeRepet.runtimeconfig.json
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula04\ExercicioLacosdeRepet\bin\Debug\net7.0\ExercicioLacosdeRepet.dll
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula04\ExercicioLacosdeRepet\bin\Debug\net7.0\ExercicioLacosdeRepet.pdb
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula04\ExercicioLacosdeRepet\obj\Debug\net7.0\ExercicioLacosdeRepet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula04\ExercicioLacosdeRepet\obj\Debug\net7.0\ExercicioLacosdeRepet.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula04\ExercicioLacosdeRepet\obj\Debug\net7.0\ExercicioLacosdeRepet.AssemblyInfo.cs
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula04\ExercicioLacosdeRepet\obj\Debug\net7.0\ExercicioLacosdeRepet.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula04\ExercicioLacosdeRepet\obj\Debug\net7.0\ExercicioLacosdeRepet.dll
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula04\ExercicioLacosdeRepet\obj\Debug\net7.0\refint\ExercicioLacosdeRepet.dll
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula04\ExercicioLacosdeRepet\obj\Debug\net7.0\ExercicioLacosdeRepet.pdb
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula04\ExercicioLacosdeRepet\obj\Debug\net7.0\ExercicioLacosdeRepet.genruntimeconfig.cache
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula04\ExercicioLacosdeRepet\obj\Debug\net7.0\ref\ExercicioLacosdeRepet.dll
