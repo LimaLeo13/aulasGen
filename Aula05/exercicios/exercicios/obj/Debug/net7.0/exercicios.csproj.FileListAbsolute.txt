@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula05\exercicios\exercicios\bin\Debug\net7.0\exercicios.exe
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula05\exercicios\exercicios\bin\Debug\net7.0\exercicios.deps.json
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula05\exercicios\exercicios\bin\Debug\net7.0\exercicios.runtimeconfig.json
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula05\exercicios\exercicios\bin\Debug\net7.0\exercicios.dll
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula05\exercicios\exercicios\bin\Debug\net7.0\exercicios.pdb
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula05\exercicios\exercicios\obj\Debug\net7.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula05\exercicios\exercicios\obj\Debug\net7.0\exercicios.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula05\exercicios\exercicios\obj\Debug\net7.0\exercicios.AssemblyInfo.cs
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula05\exercicios\exercicios\obj\Debug\net7.0\exercicios.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula05\exercicios\exercicios\obj\Debug\net7.0\exercicios.dll
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula05\exercicios\exercicios\obj\Debug\net7.0\refint\exercicios.dll
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula05\exercicios\exercicios\obj\Debug\net7.0\exercicios.pdb
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula05\exercicios\exercicios\obj\Debug\net7.0\exercicios.genruntimeconfig.cache
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula05\exercicios\exercicios\obj\Debug\net7.0\ref\exercicios.dll
