@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula06\Pilha\Pilha\bin\Debug\net7.0\Pilha.exe
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula06\Pilha\Pilha\obj\Debug\net7.0\Pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula06\Pilha\Pilha\obj\Debug\net7.0\Pilha.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula06\Pilha\Pilha\obj\Debug\net7.0\Pilha.AssemblyInfo.cs
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula06\Pilha\Pilha\obj\Debug\net7.0\Pilha.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula06\Pilha\Pilha\obj\Debug\net7.0\Pilha.dll
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula06\Pilha\Pilha\obj\Debug\net7.0\refint\Pilha.dll
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula06\Pilha\Pilha\obj\Debug\net7.0\Pilha.pdb
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula06\Pilha\Pilha\bin\Debug\net7.0\Pilha.deps.json
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula06\Pilha\Pilha\bin\Debug\net7.0\Pilha.runtimeconfig.json
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula06\Pilha\Pilha\bin\Debug\net7.0\Pilha.dll
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula06\Pilha\Pilha\bin\Debug\net7.0\Pilha.pdb
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula06\Pilha\Pilha\obj\Debug\net7.0\Pilha.genruntimeconfig.cache
+C:\Users\user\OneDrive\Área de Trabalho\AulasGen\Aula06\Pilha\Pilha\obj\Debug\net7.0\ref\Pilha.dll
